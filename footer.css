@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    flex-direction: column;  /* Stack elements vertically */
+    align-items: center;     /* Center content horizontally */
+    justify-content: center; /* Center content vertically */
+    padding: 20px;
+    text-align: center;      /* Center text */
+  }
+  
+  .footer .footer__inner {
+    width: 100%;             /* Ensure full width for inner content */
+  }
+  
