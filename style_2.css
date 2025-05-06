@@ -28,7 +28,8 @@
     height: 500px;
 }
 
-#text-box {
+#text-box 
+{
     border: 4px solid white;
     height: 150px;
     width: 57.7%;
@@ -36,7 +37,8 @@
     padding: 20px;
 }
 
-#options {
+#options 
+{
     display: flex;
     width: 60%;
     /* background: gray; */
@@ -45,7 +47,7 @@
     justify-content: space-around;
 }
 
-#option-1
+#option1
 {
     height: 100px;
     width: 90%;
@@ -55,7 +57,7 @@
     padding: 15px;
 }
 
-#option-2
+#option2
 {
     height: 100px;
     width: 90%;
@@ -66,7 +68,7 @@
     margin-left: 80px;
 }
 
-#option-1:hover, #option-2:hover 
+#option1:hover, #option2:hover 
 {
     background: white;
     color: black;
